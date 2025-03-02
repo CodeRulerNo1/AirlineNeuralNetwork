@@ -4,7 +4,7 @@ In the airline industry, maximizing profitability is a complex challenge influen
 ## Web App
 It predicts profit by taking a single record as input by using one of the trained model (comma seperated)
 
-[app link](http://127.0.0.1:5000)
+[App link](http://127.0.0.1:5000)
 ## Documentation
 **1. Objective**
 
