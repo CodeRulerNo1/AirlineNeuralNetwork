@@ -2,13 +2,6 @@
 This project is a neural network model designed to predict airline profitability based on multiple factors.
 In the airline industry, maximizing profitability is a complex challenge influenced by multiple operational and financial factors. Given historical flight performance data, your task is to develop a machine learning model that accurately predicts profit (USD) for each flight based on features.
 
-
-## Training Data Link
-
-[flight_data.csv](https://docs.google.com/spreadsheets/d/1eALZhnY5bEJ4uCi9BCjN2fpx8jRIzwWo/edit?usp=sharing&ouid=109976760607215104976&rtpof=true&sd=true)
-
-
-
 ## Documentation
 **1. Objective**
 
@@ -54,7 +47,11 @@ The objective of this project is to create a machine learning model, a Neural Ne
     R² Score: Measures how well predictions fit actual values.
 
 **6. Visualization**
-    ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/model_architecture.png?raw=true)
+    ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/model_architectu.png?raw=true)
+
+## Training Data Link
+
+[flight_data.csv](https://docs.google.com/spreadsheets/d/1eALZhnY5bEJ4uCi9BCjN2fpx8jRIzwWo/edit?usp=sharing&ouid=109976760607215104976&rtpof=true&sd=true)
 ## Author
 
 [@Ichhabal Singh](https://www.github.com/CodeRulerNo1)
