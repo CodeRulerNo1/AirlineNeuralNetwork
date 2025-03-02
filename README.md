@@ -14,7 +14,6 @@ The objective of this project is to create a machine learning model, a Neural Ne
 
 2.1 Data Cleaning
 
-    One-hot encoded categorical variables (flight number)
 
     Created new features like delay.
 
