@@ -61,6 +61,8 @@ Important features for the model
 
 ## Web App
 It predicts profit by taking a single record as input by using one of the trained model (comma seperated)
+![image](https://github.com/user-attachments/assets/b28a49b3-5426-4749-a54d-196ad04ac3a3)
+
 
 [App link](http://127.0.0.1:5000) (after running app.py)
 
