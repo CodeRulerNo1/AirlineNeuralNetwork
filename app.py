@@ -14,7 +14,7 @@ COLUMN_NAMES = [
 ]
 
 # Load trained model
-model = tf.keras.models.load_model('airline_profit_model2.h5')
+model = tf.keras.models.load_model('Models and Notebooks/airline_profit_model2.h5')
 
 @app.route('/')
 def home():
