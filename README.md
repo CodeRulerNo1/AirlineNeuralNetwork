@@ -31,7 +31,7 @@ The objective of this project is to create a machine learning model, a Neural Ne
     The model is a fully connected feedforward neural network (FNN) implemented using TensorFlow/Keras.
 
 3.1 Neural Network Design
-    ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/model_architecture.png?raw=true)
+    ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/model_architecture.png?raw=true)
 3.2 Regularization & Optimization
 
     L2 Regularization (λ = 0.001): Avoids overfitting.
