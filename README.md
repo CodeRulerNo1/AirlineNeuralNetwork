@@ -25,9 +25,9 @@ The objective of this project is to create a machine learning model, a Neural Ne
 
 3.1 Neural Network Design
 
-     ![alt text](https://github.com/CodeRulerNo1/AirlineNeuralNetwork/blob/main/NN%20(2).png)
+![alt text](https://github.com/CodeRulerNo1/AirlineNeuralNetwork/blob/main/NN%20(2).png)
      
-    ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/model_architecture.png?raw=true)
+![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/model_architecture.png?raw=true)
 3.2 Regularization & Optimization
 
     L2 Regularization (λ = 0.001): Avoids overfitting.
@@ -51,9 +51,9 @@ The objective of this project is to create a machine learning model, a Neural Ne
 
 **6. Visualization**
 
-    ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/Training.png?raw=true)
-    ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/Important_features.png?raw=true)
-    ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/important_features2.png?raw=true)
+![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/Training.png?raw=true)
+![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/Important_features.png?raw=true)
+![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/important_features2.png?raw=true)
 
 ## Training Data Link
 
