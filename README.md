@@ -67,6 +67,8 @@ Important features for the model
 
 tensorflow==2.13.0
 
+flask
+
 pandas
 
 numpy
