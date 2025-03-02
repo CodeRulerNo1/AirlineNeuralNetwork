@@ -47,7 +47,9 @@ The objective of this project is to create a machine learning model, a Neural Ne
     R² Score: Measures how well predictions fit actual values.
 
 **6. Visualization**
-    ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/model_architectu.png?raw=true)
+    ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/training.png?raw=true)
+    ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/Important_features.png?raw=true)
+    ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/important_features2.png?raw=true)
 
 ## Training Data Link
 
