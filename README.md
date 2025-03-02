@@ -1,10 +1,7 @@
 # Airline Profitability Prediction
 This project is a neural network model designed to predict airline profitability based on multiple factors.
 In the airline industry, maximizing profitability is a complex challenge influenced by multiple operational and financial factors. Given historical flight performance data, your task is to develop a machine learning model that accurately predicts profit (USD) for each flight based on features.
-## Web App
-It predicts profit by taking a single record as input by using one of the trained model (comma seperated)
 
-[App link](http://127.0.0.1:5000) (after running app.py)
 ## Documentation
 **1. Objective**
 
@@ -61,6 +58,11 @@ Important features for the model
 
 ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/img/Important_features.png?raw=true)
 ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/img/important_features2.png?raw=true)
+
+## Web App
+It predicts profit by taking a single record as input by using one of the trained model (comma seperated)
+
+[App link](http://127.0.0.1:5000) (after running app.py)
 
 ## Requirements
 
