@@ -63,10 +63,15 @@ Important features for the model
 ## Requirements
 
 tensorflow==2.13.0
+
 pandas
+
 numpy
+
 scikit-learn
+
 seaborn
+
 matplotlib
 
 ## Steps to train model
