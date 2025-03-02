@@ -51,7 +51,9 @@ The objective of this project is to create a machine learning model, a Neural Ne
 
 **6. Visualization**
 
+Training Visualisation graphs
 ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/Training.png?raw=true)
+Important features for the model
 ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/Important_features.png?raw=true)
 ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/important_features2.png?raw=true)
 
