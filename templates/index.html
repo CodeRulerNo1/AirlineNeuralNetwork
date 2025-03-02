@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ML Prediction App</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 50px;
+      }
+      input,
+      button {
+        margin-top: 10px;
+        padding: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Airline Profit Prediction</h2>
+    <p>Enter input values without profit(USD) column:</p>
+
+    <input type="text" id="inputData" placeholder="e.g. 100, 200, 300" />
+    <button onclick="getPrediction()">Predict</button>
+
+    <h3 id="result"></h3>
+
+    <script>
+      async function getPrediction() {
+        const inputElement = document.getElementById("inputData");
+        const resultElement = document.getElementById("result");
+
+        // Convert input into an array
+        const inputArray = inputElement.value.split(",").map(Number);
+
+        // Send data to Flask backend
+        const response = await fetch("/predict", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ input: inputArray }),
+        });
+
+        const data = await response.json();
+        resultElement.innerText = data.prediction
+          ? `Prediction: ${data.prediction}`
+          : `Error: ${data.error}`;
+      }
+    </script>
+  </body>
+</html>
