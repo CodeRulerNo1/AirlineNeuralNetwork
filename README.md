@@ -60,6 +60,26 @@ Important features for the model
 ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/Important_features.png?raw=true)
 ![alt text](https://github.com/CodeRulerNo1//AirlineNeuralNetwork/blob/main/important_features2.png?raw=true)
 
+## Requirements
+
+tensorflow==2.13.0
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+
+## Steps to train model
+1. Open the notebook at [Training_Neural_Network_airline](https://github.com/CodeRulerNo1/AirlineNeuralNetwork/blob/main/Models%20and%20Notebooks/Training_Neural_Network_airline.ipynb)
+2. Import your data to dataframe named df
+3. Run the code in the Notebook.
+
+## Steps to test model
+1. Open the notebook at [Test_Models](https://github.com/CodeRulerNo1/AirlineNeuralNetwork/blob/main/Models%20and%20Notebooks/Test_Models.ipynb)
+2. Also download both the models.
+3. Import your data to dataframe named df.
+4. Run the code in the Notebook.
+   
 ## Training Data Link
 
 [flight_data.csv](https://docs.google.com/spreadsheets/d/1eALZhnY5bEJ4uCi9BCjN2fpx8jRIzwWo/edit?usp=sharing&ouid=109976760607215104976&rtpof=true&sd=true)
